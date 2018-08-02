@@ -9,7 +9,7 @@
 
 <a href="https://linuxgsm.com">LinuxGSM</a> is the command line tool for quick, simple deployment and management of dedicated game servers.
 
-<h2>LinuxGSM Vagrentfile</h2>
+<h2>LinuxGSM Vagrantfile</h2>
 A basic Vagrantfile for setting up an Ubuntu 16.04 environment to install LinuxGSM game servers. The file is designed to install required dependencies and download linuxgsm.sh ready for use.
 
 This is very useful for getting LinuxGSM setup on a Windows desktop. Ideal for LAN and development use on a local machine.
